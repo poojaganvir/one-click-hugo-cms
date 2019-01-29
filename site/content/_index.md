@@ -1,7 +1,7 @@
 ---
 title: Netlify CMS
 subtitle: Create your own websites
-image: /img/home-jumbotron.jpg
+image: /img/about-shade-grown.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
